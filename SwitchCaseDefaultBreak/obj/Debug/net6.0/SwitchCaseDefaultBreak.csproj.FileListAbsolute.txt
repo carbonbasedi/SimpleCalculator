@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\bin\Debug\net6.0\SwitchCaseDefaultBreak.exe
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\bin\Debug\net6.0\SwitchCaseDefaultBreak.deps.json
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\bin\Debug\net6.0\SwitchCaseDefaultBreak.runtimeconfig.json
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\bin\Debug\net6.0\SwitchCaseDefaultBreak.dll
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\bin\Debug\net6.0\SwitchCaseDefaultBreak.pdb
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\SwitchCaseDefaultBreak.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\SwitchCaseDefaultBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\SwitchCaseDefaultBreak.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\SwitchCaseDefaultBreak.AssemblyInfo.cs
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\SwitchCaseDefaultBreak.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\SwitchCaseDefaultBreak.dll
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\refint\SwitchCaseDefaultBreak.dll
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\SwitchCaseDefaultBreak.pdb
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\SwitchCaseDefaultBreak.genruntimeconfig.cache
+C:\Users\rusla\source\repos\SwitchCaseDefaultBreak\SwitchCaseDefaultBreak\obj\Debug\net6.0\ref\SwitchCaseDefaultBreak.dll
